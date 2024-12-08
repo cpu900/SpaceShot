@@ -8,6 +8,8 @@
 ## **📚 About the Project**  
 Learning the basic structure and syntax of the C# language, as well as how to utilize the common features of the .NET Framework to develop programs with graphical user interface.
 
+Note: the highest scores are saved to `highscore.txt`
+
 ---
 
 ## **🙏 The Game Rules**  
